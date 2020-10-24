@@ -22,6 +22,4 @@ function sumTillSingleDigit(num) {
 sumTillSingleDigit(93); // 3
 sumTillSingleDigit(81); // 9
 sumTillSingleDigit(51298); // 7
-
-
 ```
